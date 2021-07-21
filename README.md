@@ -1,18 +1,12 @@
-# Salesforce DX Project: Next Steps
+# Salesforce Fibonacci Series
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+[![sfdcdreamer.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://sfdcdreamer/)
 
-## How Do You Plan to Deploy Your Changes?
+In mathematics, the Fibonacci numbers, commonly denoted Fn, form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. There might a lot of resources out in the web to determine if a string is palindrome using Javasript, C#, Java and other programming languages. I took a step-back and thought of sharing the code in Apex to help.
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### Version
+1.0
+## Related resources
+https://en.wikipedia.org/wiki/Fibonacci_number
 
-## Configure Your Salesforce DX Project
-
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+https://www.mathsisfun.com/numbers/fibonacci-sequence.html
